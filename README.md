@@ -1,1 +1,1 @@
-# M1-Activities_CP2-
+Computer Programming 2 Milestone 1 and Activities
